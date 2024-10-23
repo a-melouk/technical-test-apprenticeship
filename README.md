@@ -6,7 +6,8 @@ The goal of this test is for us to understand if we'd be happy working together.
 ## The actual test
 
 Please implement a [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe), where two players can take turns playing.  
-We expect the application to either run in a web page (using Javascript for example), or within a shell (using Python for example).
+We expect that the two players are seating in front of the same machine, taking turns playing. In particular we do **not** expect the code to run on two different machines talking to one another. One machine, two players.  
+The application should either run in a web page (using Javascript for example), or within a shell (using Python for example).
 
 ### Technical details
 
